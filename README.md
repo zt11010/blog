@@ -9,7 +9,7 @@
 # 提交创建的文件
     git commit -m “first commit” 
 
-# 连接github仓库
+# 连接github仓库，只需要连接一次
     git remote add origin git@github.com:zt11010/blog.git
 
 # 推送到github上
